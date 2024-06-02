@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "Picture": "/src/assets/image/homeDecor.jpg",
+        "title": "Elegant Lamp",
+        "Category": "Home Decor",
+        "category_bg": "#FFD700",
+        "card_bg": "#FFF0F5",
+        "text_button_bg": "rgba(255, 215, 0, 0.2)",
+        "Description": "A beautifully designed lamp that adds elegance to any room.",
+        "Price": 49.99
+    },
+    {
+        "id": 2,
+        "Picture": "/src/assets/image/homeDecor1.jpg",
+        "title": "Vintage Clock",
+        "Category": "Home Decor",
+        "category_bg": "#FFD700",
+        "card_bg": "#FFF0F5",
+        "text_button_bg": "rgba(255, 215, 0, 0.2)",
+        "Description": "A classic vintage clock perfect for antique lovers.",
+        "Price": 120.00
+    },
+    {
+        "id": 3,
+        "Picture": "/src/assets/image/homeDecor2.jpg",
+        "title": "Cookware Set",
+        "Category": "Home Decor",
+        "category_bg": "#FFD700",
+        "card_bg": "#FFF0F5",
+        "text_button_bg": "rgba(255, 215, 0, 0.2)",
+        "Description": "A complete cookware set for all your culinary needs.",
+        "Price": 89.99
+    },
+    {
+        "id": 4,
+        "Picture": "/src/assets/image/Furniture.jpg",
+        "title": "Modern Sofa",
+        "Category": "Fashion",
+        "category_bg": "#8B0000",
+        "card_bg": "#F5F5F5",
+        "text_button_bg": "rgba(139, 0, 0, 0.2)",
+        "Description": "A stylish modern sofa that offers both comfort and style.",
+        "Price": 799.99
+    },
+    {
+        "id": 5,
+        "Picture": "/src/assets/image/Furniture1.jpg",
+        "title": "Leather Jacket",
+        "Category": "Fashion",
+        "category_bg": "#8B0000",
+        "card_bg": "#F5F5F5",
+        "text_button_bg": "rgba(139, 0, 0, 0.2)",
+        "Description": "A stylish leather jacket that never goes out of fashion.",
+        "Price": 150.00
+    },
+    {
+        "id": 6,
+        "Picture": "/src/assets/image/Furniture.jpg",
+        "title": "Designer Handbag",
+        "Category": "Fashion",
+        "category_bg": "#8B0000",
+        "card_bg": "#F5F5F5",
+        "text_button_bg": "rgba(139, 0, 0, 0.2)",
+        "Description": "A luxurious designer handbag for the fashion-forward individual.",
+        "Price": 250.00
+    },
+    {
+        "id": 7,
+        "Picture": "/src/assets/image/gaming laptop.jpg",
+        "title": "Gaming Laptop",
+        "Category": "Electronics",
+        "category_bg": "#483D8B",
+        "card_bg": "#F8F8FF",
+        "text_button_bg": "rgba(72, 61, 139, 0.2)",
+        "Description": "A high-performance gaming laptop for serious gamers.",
+        "Price": 1299.99
+    },
+    {
+        "id": 8,
+        "Picture": "/src/assets/image/pexels-photo-1080745.webp",
+        "title": "Smartwatch",
+        "Category": "Electronics",
+        "category_bg": "#483D8B",
+        "card_bg": "#F8F8FF",
+        "text_button_bg": "rgba(72, 61, 139, 0.2)",
+        "Description": "A sleek smartwatch with multiple features to keep you connected.",
+        "Price": 99.99
+    },
+    {
+        "id": 9,
+        "Picture": "/src/assets/image/pexels-photo-17543777.webp",
+        "title": "Wireless Headphones",
+        "Category": "Electronics",
+        "category_bg": "#483D8B",
+        "card_bg": "#F8F8FF",
+        "text_button_bg": "rgba(72, 61, 139, 0.2)",
+        "Description": "High-quality wireless headphones with noise cancellation.",
+        "Price": 199.99
+    },
+    {
+        "id": 10,
+        "Picture": "/src/assets/image/cycle.jpg",
+        "title": "Mountain Bike",
+        "Category": "Outdoor",
+        "category_bg": "#2E8B57",
+        "card_bg": "#F0FFF0",
+        "text_button_bg": "rgba(46, 139, 87, 0.2)",
+        "Description": "A robust mountain bike for all your outdoor adventures.",
+        "Price": 499.99
+    },
+    {
+        "id": 11,
+        "Picture": "/src/assets/image/pexels-photo-5081399.jpg",
+        "title": "Fitness Tracker",
+        "Category": "Outdoor",
+        "category_bg": "#2E8B57",
+        "card_bg": "#F0FFF0",
+        "text_button_bg": "rgba(46, 139, 87, 0.2)",
+        "Description": "A versatile fitness tracker to monitor your health metrics.",
+        "Price": 59.99
+    },
+    {
+        "id": 12,
+        "Picture": "/src/assets/image/guitter.webp",
+        "title": "Electric Guitar",
+        "Category": "Outdoor",
+        "category_bg": "#2E8B57",
+        "card_bg": "#F0FFF0",
+        "text_button_bg": "rgba(46, 139, 87, 0.2)",
+        "Description": "A high-quality electric guitar for musicians of all levels.",
+        "Price": 299.99
+    }
+]
